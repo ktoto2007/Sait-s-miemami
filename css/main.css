@@ -1,0 +1,338 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+.v1_2 {
+  width: 100%;
+  height: 2085px;
+  background: rgba(255, 255, 255, 1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v11_5 {
+  width: 100%;
+  height: 2085px;
+  background: url("../images/v11_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v11_3 {
+  width: 100%;
+  height: 947px;
+  background: url("../images/v11_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 346px;
+  left: 29px;
+  overflow: hidden;
+}
+
+.v2_33 {
+  width: 316px;
+  height: 412px;
+  background: url("../images/v2_33.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 519px;
+  left: 515px;
+  overflow: hidden;
+}
+
+.v2_24 {
+  width: 389px;
+  height: 444px;
+  background: url("../images/v2_24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 503px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v2_22 {
+  width: 475px;
+  height: 291px;
+  background: url("../images/v2_22.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  left: 534px;
+  overflow: hidden;
+}
+
+.v2_20 {
+  width: 416px;
+  height: 418px;
+  background: url("../images/v2_20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 424px;
+  overflow: hidden;
+}
+
+.v2_18 {
+  width: 389px;
+  height: 300px;
+  background: url("../images/v2_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v11_2 {
+  width: 100%;
+  height: 348px;
+  background: url("../images/v11_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1737px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v2_25 {
+  width: 100%;
+  height: 348px;
+  background: rgba(195, 199, 197, 1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v2_45 {
+  width: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 27px;
+  left: 377px;
+  font-family: Kadwa;
+  font-weight: Regular;
+  font-size: 26px;
+  opacity: 1;
+  text-align: left;
+}
+
+.v2_37 {
+  width: 90px;
+  height: 90px;
+  background: url("../images/v2_37.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 195px;
+  left: 50px;
+  overflow: hidden;
+}
+
+.v2_42 {
+  width: 90px;
+  height: 90px;
+  background: url("../images/v2_42.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 195px;
+  left: 181px;
+  overflow: hidden;
+}
+
+.v2_43 {
+  width: 90px;
+  height: 90px;
+  background: url("../images/v2_43.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  left: 50px;
+  overflow: hidden;
+}
+
+.v2_44 {
+  width: 90px;
+  height: 90px;
+  background: url("../images/v2_44.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  left: 181px;
+  overflow: hidden;
+}
+
+.v11_4 {
+  width: 100%;
+  height: 93px;
+  background: url("../images/v11_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 143px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v2_10 {
+  width: 100%;
+  height: 93px;
+  background: rgba(166, 241, 223, 1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v2_11 {
+  width: 198px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 21px;
+  left: 319px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v2_12 {
+  width: 250px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 22px;
+  left: 581px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v2_14 {
+  width: 231px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 20px;
+  left: 588px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v2_15 {
+  width: 196px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 21px;
+  left: 320px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v2_16 {
+  width: 226px;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 21px;
+  left: 45px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v14_6 {
+  width: 100%;
+  height: 143px;
+  background: url("../images/v14_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v1_3 {
+  width: 100%;
+  height: 143px;
+  background: rgba(82, 191, 184, 1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+
+.v2_9 {
+  width: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 32px;
+  left: 79px;
+  font-family: Just Me Again Down Here;
+  font-weight: Regular;
+  font-size: 64px;
+  opacity: 1;
+  text-align: center;
+}
